@@ -24,11 +24,11 @@ Node es ideal para construir aplicaciones en tiempo real, altamente escalables y
 
 Antes de Node, se utilizaba JavaScript para construir solamente aplicaciones que se ejecutaban dentro de un navegador. Cada navegador tiene un componente llamada "Motor de JavaScript" (_JavaScript Engine_) que interpreta el código JS. Cada navegador utiliza un motor diferente:
 
-| **Navegador** | **Motor de JS ** |
-| ------------- | ---------------- |
-| Edge          | Chakra           |
-| Firefox       | SpiderMonkey     |
-| Chrome        | v8               |
+| **Navegador** | **Motor de JS** |
+| ------------- | --------------- |
+| Edge          | Chakra          |
+| Firefox       | SpiderMonkey    |
+| Chrome        | v8              |
 
 De hecho, es esta variedad de motores lo que hace el código JS se comporte de forma diferente en los navegadores.
 
